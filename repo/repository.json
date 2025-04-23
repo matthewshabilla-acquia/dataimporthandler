@@ -416,11 +416,11 @@
         "date": "2025-04-22",
         "artifacts": [
           {
-            "url": "https://github.com/SearchScale/dataimporthandler/releases/download/v9.8.1/data-import-handler-9.8.1.jar",
+            "url": "https://github.com/matthewshabilla-acquia/dataimporthandler/releases/download/v9.8.1/data-import-handler-9.8.1.jar",
             "sig": "u/JaI/Ri4BLZY8O+p3aFddI2v270KRW1ZUiOXq/6hjQj5OWMBkZLxY+Q1O4Y9QKlugZlFPWu3A95Nu8rOvLv4w=="
           },
           {
-            "url": "https://github.com/SearchScale/dataimporthandler/releases/download/v9.8.1/mariadb-java-client-2.6.0.jar",
+            "url": "https://github.com/matthewshabilla-acquia/dataimporthandler/releases/download/v9.8.1/mariadb-java-client-2.6.0.jar",
             "sig": "SfYkFEkpqNfytOeGYNTSB0VD1sNLvTFQR9oCRv+e2y6GzawaZHBGo+9nKrZJ/4MUDVxQLfOiyaEJyQOI8Y+L7A=="
           }
         ],
